@@ -89,7 +89,7 @@ p {
     color: #ffffff;
 }
 
-.lead-generation h3, .brand-awareness h3, .cost-management h3 {
+.content-heading {
     margin-bottom: 10px;
     text-align: center;
 }
