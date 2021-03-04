@@ -86,17 +86,17 @@ p {
     background-color: #2589bd;
 }
 
-.lead-generation, .benefit-awareness, .benefit-cost {
+.lead-generation, .brand-awareness, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.lead-generation h3, .benefit-awareness h3, .benefit-cost h3 {
+.lead-generation h3, .brand-awareness h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.lead-generation img, .benefit-awareness img, .benefit-cost img {
+.lead-generation img, .brand-awareness img, .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
