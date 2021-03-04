@@ -14,7 +14,7 @@ Horiseon updated HTML code:
 
 ![Horiseon Website HTML top image](https://github.com/GeorgiaHunt89/Horiseon-Website/blob/c47ef32639179f38bddf71b0e45eb74bc5cb56c3/assets/images/Horiseon-Website-HTML-top.png)
 
-![Horiseon Website HTML bottom image](https://github.com/GeorgiaHunt89/Horiseon Website/blob/c47ef32639179f38bddf71b0e45eb74bc5cb56c3/assets/images/Horiseon-Website-HTML-bottom.png)
+![Horiseon Website HTML bottom image](https://github.com/GeorgiaHunt89/Horiseon-Website/blob/b6974881ddb6eeced90534767c5045c12cf2f5c6/assets/images/Horiseon-Website-HTML-bottom.png)
 
 Horiseon Website CSS code:
 
