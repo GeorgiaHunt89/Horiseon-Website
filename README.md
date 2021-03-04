@@ -9,3 +9,7 @@ Updated website to ensure codebase follows accessibility standards and is optimi
 
 Updated the alt tags for images increases accessibility to ensure that people with disabilities can access the Horiseon website using assertive technologies. The additional alt tags will also help the website rank better in search engines.
 This projected helped me to better understand the semantic structure of HTML, CSS and creating appropriate alt tags for images. 
+
+![Horiseon Website HTML top image](https://github.com/GeorgiaHunt89/Horiseon-Website/blob/c47ef32639179f38bddf71b0e45eb74bc5cb56c3/assets/images/Horiseon-Website-HTML-top.png)
+
+![Horiseon Website HTML bottom image] (https://github.com/GeorgiaHunt89/Horiseon-Website/blob/c47ef32639179f38bddf71b0e45eb74bc5cb56c3/assets/images/Horiseon-Website-HTML-bottom.png)
